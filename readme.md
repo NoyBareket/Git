@@ -32,4 +32,6 @@
    upload your project 1 to private repository
    read: https://www.atlassian.com/git/tutorials/using-branches
 
+### Screenshot from Gal Github:
+
 ![img1](./Screenshot%202023-03-23%20125650.png)
