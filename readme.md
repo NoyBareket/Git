@@ -5,7 +5,7 @@
 3. git status
 4. git add <FILE_NAME> / git add .
 5. git config user.email "<noyba1999@gmail.com>"
-6. git config user.name "<NoyBareket>"
+6. git config user.name "Noy Bareket"
 7. git commit -m "<COMMIT MESSAGE>"
 8. git log
 9. git remote add origin https://github.com/<YOUR USER NAME>/<YOUR PROJECT>.git
